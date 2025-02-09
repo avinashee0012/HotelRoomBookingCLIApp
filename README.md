@@ -1,18 +1,11 @@
-## Getting Started
+### Hotel Management System functionalities:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Book a Room
+2. Checkout a Room
+3. Print all Rooms
+4. Show Total Coins
+5. Show Active Bookings
+6. Show Booked Rooms with Customers
+7. Check Room Availability
+8. Get Customer Name by Room ID
+9. Exit
