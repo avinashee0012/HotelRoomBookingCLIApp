@@ -1,4 +1,4 @@
-### Hotel Management System functionalities:
+### [COMPLETE] Hotel Management System functionalities:
 
 1. Book a Room
 2. Checkout a Room
